@@ -47,9 +47,30 @@ I am interested in physics and programming, especially machine learning. After c
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehdibp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehdibp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+##  GitHub Stats:
+
+<div align="center">
+  <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehdibp&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="max-width: 100%; width: 55%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; width: 43%; height: auto;"/>
+  </div>
+</div>
+
+<!-- <div align="center">
+  <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehdibp&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="max-width: 100%; width: 46%; height: auto;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=mehdibp&theme=dark&hide_border=true" style="max-width: 100%; width: 50%; height: auto;" />
+  </div>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div> -->
+
+<!-- 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mehdibp&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehdibp&icon=0&color=0)](https://visitcount.itsvg.in)
